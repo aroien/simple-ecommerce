@@ -1,0 +1,14 @@
+
+.shop-container{
+  display: flex;
+  border: 1px solid gray;
+  justify-content: space-around;
+}
+.cart-container{
+  border-left: 1px solid gray; 
+  padding: 2px; 
+  margin-left: 15px ;
+}
+
+
+
